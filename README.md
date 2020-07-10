@@ -1,2 +1,2 @@
 # PurvajaDurga.github.io
-My Por
+My Portfolio
